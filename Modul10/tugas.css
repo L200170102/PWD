@@ -1,0 +1,19 @@
+body
+{
+background:url(desert.jpg);
+}
+h2
+{font-family:high tower text;
+text-align:center
+}
+table
+{background:rgba(44, 122, 224, 0.151)
+}
+.td {
+font-weight:italic;
+}
+.dashed
+{
+border-style:double;
+border-color:pink;
+}
